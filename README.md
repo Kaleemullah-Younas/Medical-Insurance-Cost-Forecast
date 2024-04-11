@@ -63,4 +63,4 @@ Contributions from the developer community are welcome to enhance and refine the
 
 ## Check this out
 
-Explore the live version of the Medical Insurance Cost Forecast Model on [this URL](https://insurance-cost-forecaster-drstrange.streamlit.app/)
+Explore the live version of the Medical Insurance Cost Forecast Model on [this URL](https://medical-insurance-cost-forecast-drstrange.streamlit.app/)
